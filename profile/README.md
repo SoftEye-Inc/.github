@@ -1,6 +1,6 @@
 # Building the Future of AI Glasses
 
-[![TDK AIsight](assets/banner-01.png)](https://aisight.tdk.com/)
+[![TDK AIsight](assets/banner.png)](https://aisight.tdk.com/)
 
 We develop the fundamental technologies that enable AI glasses to connect people with generative AI in a personal and natural way.
 
