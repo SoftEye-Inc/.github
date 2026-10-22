@@ -17,14 +17,10 @@ By combining custom chips, cameras, sensors, and highly efficient AI software, w
 
 ## See AIsight in action
 
-[![TDK AIsight CES 2026 demo](https://img.youtube.com/vi/RHw3KIAeOGw/hqdefault.jpg)](https://www.youtube.com/watch?v=RHw3KIAeOGw)
-
 - [AIsight CES 2026 — Full Presentation Walkthrough](https://www.youtube.com/watch?v=Xj85iUnJSaw)
 - [SoftEye Functional Demo](https://www.youtube.com/watch?v=B45pwKm3eQk)
 - [TDK CEO discusses the future of smart glasses](https://www.youtube.com/watch?v=aG5aENxnL9E)
 - [Explore more AIsight videos](https://aisight.tdk.com/resources-videos)
-
-<br>
 
 ## Featured
 
@@ -32,15 +28,11 @@ By combining custom chips, cameras, sensors, and highly efficient AI software, w
 - [AI Integrated XR/Smart Glasses and the Next Human-Machine Interface](https://www.youtube.com/watch?v=8vj-e78ehg0)
 - [Smart Glasses & AR/VR — TDK sensing technologies](https://www.invensense.tdk.com/en-us/smart-glasses)
 
-<br>
-
 ## Latest news
 
 - **August 18, 2026** — [TDK acquires OQmented assets to strengthen AR display technology](https://www.tdk.com/en/news_center/press/20260818_01.html)
 - **January 6, 2026** — [TDK launches AIsight and introduces the SED0112 ultra-low-power DSP for AI glasses](https://www.tdk.com/en/news_center/press/20260106_01.html)
 - **June 19, 2025** — [TDK acquires SoftEye to expand AI capabilities for smart glasses](https://www.tdk.com/en/news_center/press/20250619-01-acquisition-of-SoftEye.html)
-
-<br>
 
 ## Join TDK AIsight
 
